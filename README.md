@@ -17,17 +17,26 @@
 <a href="https://www.mongodb.com/" rel="nofollow">
 <img alt="Guils-Ts" height="40" width="40" src="https://camo.githubusercontent.com/d69527496a61f94e89fbb0f4022b15fa816f63d9b773c1ae2b6f83fb63e69d2f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e737667">
   </a>
+    <a href="https://www.docker.com/" rel="nofollow">
+    <img alt="Guils-Docker" height="40" width="40" src="https://camo.githubusercontent.com/cbd55750b53c01dc18830d377c7364b01077e8a675a79d454a3f1ea549efe129/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2e737667">
+  </a>
+  <a href="https://www.mysql.com/" rel="nofollow">
+    <img align="center" alt="Guils-MYSQL" height="40" width="40" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/mysql.png">
+  </a>
+  <a href="https://nodejs.org/en/docs/" rel="nofollow">
+    <img align="center" alt="Guils-NodeJs" height="40" width="40" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/nodejs.png">
+  </a>
  <a href="https://www.typescriptlang.org/" rel="nofollow">
-      <img alt="Guils-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      <img alt="Guils-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   </a>
   <a href="https://mochajs.org/" rel="nofollow">
-      <img alt="Guils-Mocha" height="50" width="60" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/mocha.png">
+      <img alt="Guils-Mocha" height="40" width="40" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/mocha.png">
   </a>
   <a href="https://www.chaijs.com/" rel="nofollow">
-      <img alt="Guils-Chai" height="50" width="60" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/chai.png">
+      <img alt="Guils-Chai" height="40" width="40" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/chai.png">
   </a>
   <a href="https://sinonjs.org/" rel="nofollow">
-      <img alt="Guils-Sinon" height="50" width="60" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/sinon.png">
+      <img alt="Guils-Sinon" height="40" width="40" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/sinon.png">
   </a>
   
 
