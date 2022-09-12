@@ -10,6 +10,16 @@
 </p>
 <a href="https://linkedin.com/in//gabriel-freitas-b90951a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/gabriel-freitas-b90951a9" height="30" width="40" /></a>
 </p>
+### :book: Currently Studying:
+<div>
+   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" rel="nofollow">
+    <img alt="cSharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </a>
+  
+  <a href="https://dotnet.microsoft.com/en-us/" rel="nofollow">
+    <img alt="dotnet" height="50" width="60" src="https://user-images.githubusercontent.com/42860908/106164530-120e5680-61b0-11eb-954c-969c7031ffd4.png">
+  </a>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
